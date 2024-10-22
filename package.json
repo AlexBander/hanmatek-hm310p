@@ -31,7 +31,7 @@
     "electron-json-storage": "^4.2.0",
     "electron-window-state": "^5.0.3",
     "@fortawesome/fontawesome-free": "^5.14.0",
-    "bootstrap": "^4.5.0",
+    "bootstrap": "^4.6.2",
     "dseg": "^0.46.0",
     "highcharts": "^8.1.2",
     "jquery": "^3.5.1",
