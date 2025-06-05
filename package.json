@@ -35,7 +35,7 @@
     "dseg": "^0.46.0",
     "highcharts": "^8.1.2",
     "jquery": "^3.5.1",
-    "modbus-serial": "^8.0.0",
+    "modbus-serial": "^8.0.7",
     "popper.js": "^1.16.1"
   },
   "devDependencies": {
